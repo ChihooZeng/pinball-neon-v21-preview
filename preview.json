@@ -1,0 +1,9 @@
+{
+  "visualEdition": "V2.1",
+  "sourceBranch": "codex/v2-1-experience-20261120",
+  "sourceCommit": "cda2e1dcf634c344e2d1e77d32a165ed4fd8a29e",
+  "basedOn": "9856139c72925ef9bfc51c051736780c141ae91e",
+  "rollbackPreview": "https://chihoozeng.github.io/pinball-neon-v2-preview/demo/v1/",
+  "entry": "demo/v1/",
+  "screens": "screens/"
+}
